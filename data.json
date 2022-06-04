@@ -1,4 +1,9 @@
 {
-    "name": "Lavanya",
-    "salary": "5000"
- }
+    "name": "PostmanDemo",
+    "desription": "Test Repo",
+    "homepage": "https://github.com/",
+    "private": false,
+    "has_issues": true,
+    "has_projects": true,
+    "has_wiki": true
+}

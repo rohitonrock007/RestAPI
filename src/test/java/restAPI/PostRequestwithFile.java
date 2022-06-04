@@ -22,7 +22,7 @@ public class PostRequestwithFile {
 		
 		RestAssured.baseURI = "http://localhost:7000/employees";
 		
-		byte[] dataBytes =Files.readAllBytes(Paths.get("data.json"));
+		byte[] dataBytes =Files.readAllBytes(Paths.get("data.json"));//give full path of file
 		
 		
 		RequestSpecification request = RestAssured.given();
