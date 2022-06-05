@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-06-04T06:31:59Z" name="Default suite" finished-at="2022-06-04T06:32:01Z" duration-ms="2683">
+  <suite started-at="2022-06-05T07:06:59Z" name="Default suite" finished-at="2022-06-05T07:07:02Z" duration-ms="2659">
     <groups>
     </groups>
-    <test started-at="2022-06-04T06:31:59Z" name="Default test" finished-at="2022-06-04T06:32:01Z" duration-ms="2683">
-      <class name="restapiXML.XMLTest">
-        <test-method signature="test2()[pri:0, instance:restapiXML.XMLTest@35399441]" started-at="2022-06-04T06:31:59Z" name="test2" finished-at="2022-06-04T06:32:01Z" duration-ms="2666" status="PASS">
+    <test started-at="2022-06-05T07:06:59Z" name="Default test" finished-at="2022-06-05T07:07:02Z" duration-ms="2659">
+      <class name="oAuthEmployee.OAuthEmployee">
+        <test-method signature="test1()[pri:0, instance:oAuthEmployee.OAuthEmployee@3eb81efb]" started-at="2022-06-05T07:06:59Z" name="test1" finished-at="2022-06-05T07:07:02Z" duration-ms="2641" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test2 -->
-      </class> <!-- restapiXML.XMLTest -->
+        </test-method> <!-- test1 -->
+      </class> <!-- oAuthEmployee.OAuthEmployee -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
